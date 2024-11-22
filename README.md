@@ -24,7 +24,7 @@ Das Projekt besteht aus folgenden Dateien:
 2. **Styling mit CSS**
    - Design der Uhr erstellt: Kreis, Markierungen und Zeiger.
    - Sicherstellen, dass die Uhr responsiv ist:
-     - Nutzung von relativen Maßeinheiten wie `%`, `vh` und `vw`.
+     - Nutzung von relativen Masseinheiten wie `%`, `vh` und `vw`.
      - Flexbox für zentriertes Layout.
 
 3. **JavaScript-Logik**
@@ -34,7 +34,7 @@ Das Projekt besteht aus folgenden Dateien:
 
 4. **Dokumentation und Standards**
    - Kommentarzeilen für jede Funktion und wichtige Codeabschnitte.
-   - Formatierung gemäß [JavaScript Coding Conventions](https://www.w3schools.com/js/js_conventions.asp).
+   - Formatierung gemäss [JavaScript Coding Conventions](https://www.w3schools.com/js/js_conventions.asp).
 
 5. **GitHub-Veröffentlichung**
    - Repository erstellt und Projektdateien hochgeladen.
